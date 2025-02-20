@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RobertB618.RobertB618&"  />
+</div>
+
+###
+
 <h1 align="center">Hello there, I'm Robert 👋</h1>
 
 ###
@@ -67,5 +73,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RobertB618/RobertB618/output/snake.svg" alt="Snake animation" />
 
 ###
